@@ -9,5 +9,4 @@ public class DemoVarMain {
 		ob.display();
 		System.out.println("Static variable"+DemoTypeVar.numthree);
 	}
-
 }
